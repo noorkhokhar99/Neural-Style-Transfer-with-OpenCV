@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 - Run the code with mentioned command below.
 
-` python app_v2.py`
+`python neural_style_transfer_video.py --models models`
 
 
 
